@@ -20,7 +20,7 @@ Using data analysis and interpretation skills in an effective manner to give dee
    - Design and development using Creo software, DFA/DFM for various components.
    - Supervised site engineers team (5 members) remotely for equipment installation and commissioning
 2) __Design and Development internship, Padmini VNA mechatronics June 2019 – June 2020__
-   - Data collection and analysis of vibration data of vehicle tested over different terrains using Matlab tools - smoothing out variations using EKF and various visualizations        done (graphs)
+   - __Data collection and analysis__ of vibration data of vehicle tested over different terrains using Matlab tools - smoothing out variations using EKF and various           visualizations done (graphs)
    - __Problem solving and troubleshooting strategy__ for an industrial equipment was completed with team.
    - __Research/design validation projects:__ DVP of a subcomponent of a large assembly – carried out tests
      and presented data using heat maps, graphs as well as story form
