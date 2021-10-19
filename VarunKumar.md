@@ -8,6 +8,7 @@
 Using data analysis and interpretation skills in an effective manner to give deep insights for your organisation
  
 # Work experience/Internship
-- __Post-Graduate Engineer Trainee., Quadsun Solar Pvt. Ltd. (1 yr) June 2020 – Aug 2021__
-   * 1st
-   * 2nd 
+1 __Post-Graduate Engineer Trainee., Quadsun Solar Pvt. Ltd. (1 yr) June 2020 – Aug 2021__
+   - 1st
+   - 2nd 
+   - 3rd
