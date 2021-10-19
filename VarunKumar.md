@@ -25,4 +25,13 @@ Using data analysis and interpretation skills in an effective manner to give dee
    - __Research/design validation projects:__ DVP of a subcomponent of a large assembly – carried out tests
      and presented data using heat maps, graphs as well as story form
    - __Procurement__ - RFP parts locally for special projects and completed same in time constraints
+3) Other internships
+   - Application engineer, Alloysmin Industries Pvt. Ltd.– April 2018 to July 2018: entailed meeting
+     customers, and prospective customers and resolving technical issues in product etc. for NCR region.
+     Training for 7QC tools, SPC, Fishbone diagram etc was completed
+   - Maintenance trainee, MALCO Energy Ltd., Nov 2016 – Dec 2016: Roles/responsibities of each
+     plant area understood. Operational guidelines was studied and preventive maintenance was carried out
+     with team. Safety training necessary for power plant was undergone. Industry etiquettes noted.
+   - Summer trainee, Simpsons & Co. Ltd. June 2015 – July 2015: Different processes and workstations
+     of Engine Block and
    
