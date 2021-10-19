@@ -8,7 +8,21 @@
 Using data analysis and interpretation skills in an effective manner to give deep insights for your organisation
  
 # Work experience/Internship
-1 __Post-Graduate Engineer Trainee., Quadsun Solar Pvt. Ltd. (1 yr) June 2020 – Aug 2021__
-   - 1st
-   - 2nd 
-   - 3rd
+1) __Post-Graduate Engineer Trainee., Quadsun Solar Pvt. Ltd. (1 yr) June 2020 – Aug 2021__
+   - Using data metrics and research to draw analysis and improvements and present to upper management
+     using Excel, matlab and python.
+
+   - Data visualization using MS excel tools – Heat maps, Graphs – combination graphs and smart art in ppt.
+   - Monitoring real-time data from CST and Tracking PV sites and communicating and escalating site
+     problems to upper management.
+   - Data analysis: Preprocessing data and data mining to find the data to draw conclusions
+   - Participated in DoE, design validation for equipment using Taguchis method.
+   - Design and development using Creo software, DFA/DFM for various components.
+   - Supervised site engineers team (5 members) remotely for equipment installation and commissioning
+2) __Design and Development internship, Padmini VNA mechatronics June 2019 – June 2020__
+   - Data collection and analysis of vibration data of vehicle tested over different terrains using Matlab tools - smoothing out variations using EKF and various visualizations        done (graphs)
+   - __Problem solving and troubleshooting strategy__ for an industrial equipment was completed with team.
+   - __Research/design validation projects:__ DVP of a subcomponent of a large assembly – carried out tests
+     and presented data using heat maps, graphs as well as story form
+   - __Procurement__ - RFP parts locally for special projects and completed same in time constraints
+   
