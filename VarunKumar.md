@@ -60,8 +60,8 @@ Using data analysis and interpretation skills in an effective manner to give dee
    - Experience working with version management software – SVN
 
 | __S.No.__ | __Degree__ | __College__ | __Year__ | __Result(CGPA/%)__ | __Key areas__ |
-| ------ | ------ |
-| 1 | Masters of technology | [plugins/dropbox/README.md][PlDb] |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| 1 | Masters of technology | Thapar university, Patiala | 2018-2020 |
 | GitHub | [plugins/github/README.md][PlGh] |
 | Google Drive | [plugins/googledrive/README.md][PlGd] |
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
