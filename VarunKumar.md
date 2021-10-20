@@ -63,5 +63,6 @@ Using data analysis and interpretation skills in an effective manner to give dee
 | __S.No.__ | __Degree__ | __College__ | __Year__ | __Result(CGPA/%)__ | __Key areas__ |
 | ------ | ------ | ------ | ------ | ------ | ------ |
 | 1 | Masters of technology | Thapar university, Patiala | 2018-2020 | 8.5 | Matlab, Creo, Ansys, SPSS Tools|
-
+| 2 | Bachelors of technology | SRM University, Chennai, ktk campus | 2013-2017 | 7.3 | Basic engineering, logical reasoning, time management |
+| 3 | 12th CBSE DPS RK Puram, New Delhi | 2012-2013 | 88 | Science with Maths and economics |
 
