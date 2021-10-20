@@ -64,5 +64,21 @@ Using data analysis and interpretation skills in an effective manner to give dee
 | ------ | ------ | ------ | ------ | ------ | ------ |
 | 1 | Masters of technology | Thapar university, Patiala | 2018-2020 | 8.5 | Matlab, Creo, Ansys, SPSS Tools|
 | 2 | Bachelors of technology | SRM University, Chennai, ktk campus | 2013-2017 | 7.3 | Basic engineering, logical reasoning, time management |
-| 3 | 12th CBSE DPS RK Puram, New Delhi | 2012-2013 | 88 | Science with Maths and economics |
+| 3 | 12th CBSE DPS RK Puram, New Delhi | 2012-2013 | 2012-2013 | 88 | Science with Maths and economics |
 
+# Gap Year
+   - NPTEL certified courses were covered
+   - Qualified GATE 2018 with 91.7 percentile in Mechanical paper 
+# Projects
+   1. ME Dissertation - “Application of MEMS sensors in water level and vibration sensing and validation using
+      experimental and simulated results” – 2020 - Thapar University and Padmini VNA mechatronics
+      - Matlab/Simulink models for various components studied and data analyzed
+      - Physical parameters were input from real life applications
+      - Experimental data using MEMS pressure sensors and IMU (in iPhone)
+      - Data analyzed using statistical methods using excel and Python - High correlation values of 75%
+        obtained
+   2. Brain scanning device design and 3D printing (FDM method) and validation
+   3. A paper on evaluation of temperature measuring proxies for variations in millennia data
+   4. Developed an IIoT device cum app with Arduino code for parts counts and continuous updation to server
+   5. Sensor for accurate continuous level measurement using pressure based mems sensor
+   6. Data analysis using excel and matlab for various engineering project problems
