@@ -59,12 +59,9 @@ Using data analysis and interpretation skills in an effective manner to give dee
    - Experience in process equipment Design &Development
    - Experience working with version management software – SVN
 
+# Educational Qualifications
 | __S.No.__ | __Degree__ | __College__ | __Year__ | __Result(CGPA/%)__ | __Key areas__ |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| 1 | Masters of technology | Thapar university, Patiala | 2018-2020 |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-Educational Qualifications
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| 1 | Masters of technology | Thapar university, Patiala | 2018-2020 | 8.5 | Matlab, Creo, Ansys, SPSS Tools|
+
+
